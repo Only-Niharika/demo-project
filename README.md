@@ -16,14 +16,14 @@ Password: 12345
 ```
 
 ## Files Included
-
+```
 demo-project/
 │
 ├── index.html
 ├── dashboard.html
 ├── style.css
 └── script.js
-
+```
 ## Features
 
 Simple login page
